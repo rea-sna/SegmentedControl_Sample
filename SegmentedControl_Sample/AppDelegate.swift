@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  SegmentedControl_Sample
 //
-//  Created by 繁野怜央 on 20201028.
+//  Created by Reo.S on 20201028.
 //
 
 import UIKit

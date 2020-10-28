@@ -2,7 +2,7 @@
 //  SegmentedControl_SampleTests.swift
 //  SegmentedControl_SampleTests
 //
-//  Created by 繁野怜央 on 20201028.
+//  Created by Reo.S on 20201028.
 //
 
 import XCTest
