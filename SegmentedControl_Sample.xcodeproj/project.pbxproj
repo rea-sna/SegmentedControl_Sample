@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		450CA4752549BF6D0074D858 /* sample.gif in Resources */ = {isa = PBXBuildFile; fileRef = 450CA4742549BF6D0074D858 /* sample.gif */; };
 		45A72DC22549ADCB005D16A3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45A72DC12549ADCB005D16A3 /* AppDelegate.swift */; };
 		45A72DC42549ADCB005D16A3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45A72DC32549ADCB005D16A3 /* SceneDelegate.swift */; };
 		45A72DC62549ADCB005D16A3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45A72DC52549ADCB005D16A3 /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 
 /* Begin PBXFileReference section */
 		450CA46B2549BDEF0074D858 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		450CA4742549BF6D0074D858 /* sample.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = sample.gif; sourceTree = "<group>"; };
 		45A72DBE2549ADCB005D16A3 /* SegmentedControl_Sample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SegmentedControl_Sample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		45A72DC12549ADCB005D16A3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		45A72DC32549ADCB005D16A3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -81,6 +83,7 @@
 			isa = PBXGroup;
 			children = (
 				450CA46B2549BDEF0074D858 /* README.md */,
+				450CA4742549BF6D0074D858 /* sample.gif */,
 				45A72DC02549ADCB005D16A3 /* SegmentedControl_Sample */,
 				45A72DD72549ADCC005D16A3 /* SegmentedControl_SampleTests */,
 				45A72DE22549ADCC005D16A3 /* SegmentedControl_SampleUITests */,
@@ -233,6 +236,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				450CA4752549BF6D0074D858 /* sample.gif in Resources */,
 				45A72DCE2549ADCC005D16A3 /* LaunchScreen.storyboard in Resources */,
 				45A72DCB2549ADCC005D16A3 /* Assets.xcassets in Resources */,
 				45A72DC92549ADCB005D16A3 /* Main.storyboard in Resources */,
